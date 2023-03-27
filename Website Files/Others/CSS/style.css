@@ -4,3 +4,18 @@
     bottom: 0; /* align the bottom of the sidebar to the bottom of the screen */
     overflow-y: auto; /* enable scrolling only for the sidebar content */
 }
+
+.content {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: calc(100% - 280px); /* subtract the width of the sidebar from the total width */
+}
+
+#map {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+  }
