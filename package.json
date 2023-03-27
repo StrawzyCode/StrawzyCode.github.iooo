@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.0-alpha2"
+  },
+  "name": "beerdex",
+  "version": "1.0.0",
+  "description": "A website to determine prices of beers near you and the quality of them.",
+  "main": "guinmapp.js",
+  "scripts": {
+    "start": "node guinmapp.js"
+    
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
