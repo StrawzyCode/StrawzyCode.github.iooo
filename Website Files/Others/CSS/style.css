@@ -1,0 +1,6 @@
+.sidebar {
+    position: fixed; /* keep the sidebar fixed on the screen */
+    top: 0; /* align the sidebar to the top of the screen */
+    bottom: 0; /* align the bottom of the sidebar to the bottom of the screen */
+    overflow-y: auto; /* enable scrolling only for the sidebar content */
+}
